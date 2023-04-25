@@ -57,6 +57,14 @@ div#formulario > p {
     font-size: 0.8em;
 }
 
+div.campo > i {
+    color: white;
+    background-color: ;
+    font-size: 2em;
+    width: 40px;
+    padding: 5px;
+}
+
 form > div.campo {
     background-color: #5f2c82;
     display: block;
